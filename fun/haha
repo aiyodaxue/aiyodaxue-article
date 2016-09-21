@@ -1,7 +1,7 @@
 ---
 title: 第一篇文章
 tags: 朱海浩, 2016/9/17
-grammar_cjkRuby: true
+grammar_cjkRuby: true![什麼鬼][1]
 ---
 
 
@@ -10,3 +10,6 @@ grammar_cjkRuby: true
 文／FlappyPig（简书作者）
 原文链接：http://www.jianshu.com/p/6ea395a6a35b
 著作权归作者所有，转载请联系作者获得授权，并标注“简书作者”。
+
+
+  [1]: ./images/slide1.jpg "slide1.jpg"
